@@ -1,0 +1,12 @@
+# system files
+.DS_Store
+*.bak
+*.pyc
+__pycache__
+
+# project files
+work_dirs
+
+data
+
+nohup.out
